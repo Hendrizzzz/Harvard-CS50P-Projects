@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+studious-trout-jjqrj7qj6qv3597/workspaces/139997209"
+		}
+	],
+	"remoteAuthority": "codespaces+studious-trout-jjqrj7qj6qv3597",
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
